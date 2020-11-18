@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632327096266",
+    "firebase_url": "https://lunch-box-101f1.firebaseio.com",
+    "project_id": "lunch-box-101f1",
+    "storage_bucket": "lunch-box-101f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632327096266:android:da813d73d68fccc9203133",
+        "android_client_info": {
+          "package_name": "com.asriv.lunch_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632327096266-3a57e84qksihk4k3plmaimsn4rp8lfi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asriv.lunch_box",
+            "certificate_hash": "2256c496d15fca466e124b6e873a44aeb3b0ae92"
+          }
+        },
+        {
+          "client_id": "632327096266-ea1p1aetk19d7lnshh1vp2aktq23mqsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDirIvn6QjMtbM0f-S9rXutmPicX068NMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632327096266-ea1p1aetk19d7lnshh1vp2aktq23mqsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
